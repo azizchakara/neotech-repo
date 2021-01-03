@@ -2,10 +2,10 @@
 @section('content')
 
 <br>
-    <p>CASANEARSHORE PARC 1100 , BD AL QODS SHORE 1 ETAGE 6, 20190 </p>             
-    <p>SIDI MAAROUF, CASABLANCA, MAROC
+    <p>Technopark, Bâtiment A, N-385,</p>             
+    <p>Casablanca, Maroc</p>
     <p>E:CONTACT@NEO-TECHIT.COM</p>
-    <p>TEL: +212 5 29 03 71 78</p>
+    <p>TEL: +212 520-000897</p>
     <p>NEOTECH IT© 2021 • PRIVACY POLICY WEBSITE</p>
                                                
 @endsection

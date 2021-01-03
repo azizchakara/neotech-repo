@@ -11,7 +11,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
     
-      <title>AdminLTE 3 | Starter</title>
+      <title>Neo Tech IT</title>
     
       <!-- Font Awesome Icons -->
       <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
